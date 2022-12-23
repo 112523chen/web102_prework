@@ -23,13 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- <img src='sample.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-
-![Video Walkthrough](./sample.mp4)
+https://user-images.githubusercontent.com/85437095/209304515-5e6166d5-0d88-46ba-ba7d-a3417c9835d9.mp4
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with Mac
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
